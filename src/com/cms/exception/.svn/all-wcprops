@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/CMSCode/!svn/ver/2616/CMSServer/WebServer_WIN/src/com/cms/exception
+END
+SendMail.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/CMSCode/!svn/ver/2598/CMSServer/WebServer_WIN/src/com/cms/exception/SendMail.java
+END
+EMail.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/CMSCode/!svn/ver/2598/CMSServer/WebServer_WIN/src/com/cms/exception/EMail.java
+END
+SendMailClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CMSCode/!svn/ver/2604/CMSServer/WebServer_WIN/src/com/cms/exception/SendMailClient.java
+END
+ETLException.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CMSCode/!svn/ver/2616/CMSServer/WebServer_WIN/src/com/cms/exception/ETLException.java
+END

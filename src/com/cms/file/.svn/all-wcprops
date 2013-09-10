@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/CMSCode/!svn/ver/2724/CMSServer/WebServer_WIN/src/com/cms/file
+END
+CMSFileClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/CMSCode/!svn/ver/2598/CMSServer/WebServer_WIN/src/com/cms/file/CMSFileClient.java
+END
+ServerThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/CMSCode/!svn/ver/2724/CMSServer/WebServer_WIN/src/com/cms/file/ServerThread.java
+END
+CMSFileServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/CMSCode/!svn/ver/2598/CMSServer/WebServer_WIN/src/com/cms/file/CMSFileServer.java
+END

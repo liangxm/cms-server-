@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/CMSCode/!svn/ver/2824/CMSServer/WebServer_WIN/src/com/cms/db
+END
+DBPubFuncs.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/CMSCode/!svn/ver/2604/CMSServer/WebServer_WIN/src/com/cms/db/DBPubFuncs.java
+END
+DBLoaderThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/CMSCode/!svn/ver/2824/CMSServer/WebServer_WIN/src/com/cms/db/DBLoaderThread.java
+END
+CMSDBServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/CMSCode/!svn/ver/704/CMSServer/WebServer_WIN/src/com/cms/db/CMSDBServer.java
+END
+DbCsv.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/CMSCode/!svn/ver/2616/CMSServer/WebServer_WIN/src/com/cms/db/DbCsv.java
+END
+SyncCRM.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/CMSCode/!svn/ver/2598/CMSServer/WebServer_WIN/src/com/cms/db/SyncCRM.java
+END

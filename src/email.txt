@@ -1,0 +1,6 @@
+#Wed Jan 16 16:25:45 GMT+08:00 2013
+TO=jon@infopower.net
+PASS=cmssupport168
+FROM=cmssupport@infopower.net
+USER=cmssupport@infopower.net
+SERVER=smtp.gmail.com

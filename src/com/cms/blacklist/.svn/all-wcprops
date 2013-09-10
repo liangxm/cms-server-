@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/CMSCode/!svn/ver/3257/CMSServer/WebServer_WIN/src/com/cms/blacklist
+END
+BlackListServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CMSCode/!svn/ver/3257/CMSServer/WebServer_WIN/src/com/cms/blacklist/BlackListServer.java
+END
+BlackListClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CMSCode/!svn/ver/2598/CMSServer/WebServer_WIN/src/com/cms/blacklist/BlackListClient.java
+END
+BlackListThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CMSCode/!svn/ver/2962/CMSServer/WebServer_WIN/src/com/cms/blacklist/BlackListThread.java
+END
